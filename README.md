@@ -2,6 +2,7 @@
 
 [![Version](https://img.shields.io/badge/version-0.202.0--pre-orange.svg)](https://github.com/nervosnetwork/ckb/releases)
 [![Nervos Talk](https://img.shields.io/badge/discuss-on%20Nervos%20Talk-3CC68A.svg)](https://talk.nervos.org/t/where-to-discuss-ckb-and-how-to-ask-for-support/6024)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/nervosnetwork/ckb)
 
 master | develop
 -------|----------
